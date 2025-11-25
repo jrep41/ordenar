@@ -1,0 +1,5 @@
+{
+  "name": "Chronos DocOrganizer",
+  "description": "A smart web application that organizes PDFs and images by date using AI. It scans file contents (OCR) to detect dates and sorts them into year-based folders.",
+  "requestFramePermissions": []
+}
